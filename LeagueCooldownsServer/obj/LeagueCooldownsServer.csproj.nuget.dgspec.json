@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\LeagueCooldowns\\server\\server\\server.csproj": {}
+    "C:\\LeagueCooldowns\\LeagueCooldownsServer\\LeagueCooldownsServer.csproj": {}
   },
   "projects": {
-    "C:\\LeagueCooldowns\\server\\server\\server.csproj": {
+    "C:\\LeagueCooldowns\\LeagueCooldownsServer\\LeagueCooldownsServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LeagueCooldowns\\server\\server\\server.csproj",
-        "projectName": "server",
-        "projectPath": "C:\\LeagueCooldowns\\server\\server\\server.csproj",
+        "projectUniqueName": "C:\\LeagueCooldowns\\LeagueCooldownsServer\\LeagueCooldownsServer.csproj",
+        "projectName": "LeagueCooldownsServer",
+        "projectPath": "C:\\LeagueCooldowns\\LeagueCooldownsServer\\LeagueCooldownsServer.csproj",
         "packagesPath": "C:\\Users\\steal\\.nuget\\packages\\",
-        "outputPath": "C:\\LeagueCooldowns\\server\\server\\obj\\",
+        "outputPath": "C:\\LeagueCooldowns\\LeagueCooldownsServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\steal\\AppData\\Roaming\\NuGet\\NuGet.Config"
