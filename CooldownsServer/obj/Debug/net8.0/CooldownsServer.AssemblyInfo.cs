@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CooldownsServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+371945d77bbe49fd5a96bbe0c99abcd9f4a92193")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e1cc18015a1e03d1f7ec2574f60c417bde80023")]
 [assembly: System.Reflection.AssemblyProductAttribute("CooldownsServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CooldownsServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

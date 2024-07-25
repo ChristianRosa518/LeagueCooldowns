@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\LeagueCooldowns\\CooldownsServer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{019E08F0-F40C-4D2D-B6BF-DF752D457D5A}|CooldownsServer.csproj|c:\\leaguecooldowns\\cooldownsserver\\controllers\\championcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019E08F0-F40C-4D2D-B6BF-DF752D457D5A}|CooldownsServer.csproj|solutionrelative:controllers\\championcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019E08F0-F40C-4D2D-B6BF-DF752D457D5A}|CooldownsServer.csproj|c:\\leaguecooldowns\\cooldownsserver\\models\\champion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019E08F0-F40C-4D2D-B6BF-DF752D457D5A}|CooldownsServer.csproj|solutionrelative:models\\champion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019E08F0-F40C-4D2D-B6BF-DF752D457D5A}|CooldownsServer.csproj|c:\\leaguecooldowns\\cooldownsserver\\services\\championservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019E08F0-F40C-4D2D-B6BF-DF752D457D5A}|CooldownsServer.csproj|solutionrelative:services\\championservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{019E08F0-F40C-4D2D-B6BF-DF752D457D5A}|CooldownsServer.csproj|c:\\leaguecooldowns\\cooldownsserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{019E08F0-F40C-4D2D-B6BF-DF752D457D5A}|CooldownsServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019E08F0-F40C-4D2D-B6BF-DF752D457D5A}|CooldownsServer.csproj|c:\\leaguecooldowns\\cooldownsserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{019E08F0-F40C-4D2D-B6BF-DF752D457D5A}|CooldownsServer.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,20 +29,72 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 207,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChampionServices.cs",
+              "DocumentMoniker": "C:\\LeagueCooldowns\\CooldownsServer\\Services\\ChampionServices.cs",
+              "RelativeDocumentMoniker": "Services\\ChampionServices.cs",
+              "ToolTip": "C:\\LeagueCooldowns\\CooldownsServer\\Services\\ChampionServices.cs",
+              "RelativeToolTip": "Services\\ChampionServices.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T21:35:43.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Champion.cs",
+              "DocumentMoniker": "C:\\LeagueCooldowns\\CooldownsServer\\Models\\Champion.cs",
+              "RelativeDocumentMoniker": "Models\\Champion.cs",
+              "ToolTip": "C:\\LeagueCooldowns\\CooldownsServer\\Models\\Champion.cs",
+              "RelativeToolTip": "Models\\Champion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T20:41:28.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ChampionController.cs",
+              "DocumentMoniker": "C:\\LeagueCooldowns\\CooldownsServer\\Controllers\\ChampionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChampionController.cs",
+              "ToolTip": "C:\\LeagueCooldowns\\CooldownsServer\\Controllers\\ChampionController.cs",
+              "RelativeToolTip": "Controllers\\ChampionController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T20:39:27.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LeagueCooldowns\\CooldownsServer\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\LeagueCooldowns\\CooldownsServer\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T22:16:54.501Z",
+              "WhenOpened": "2024-07-25T20:33:11.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\LeagueCooldowns\\CooldownsServer\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\LeagueCooldowns\\CooldownsServer\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T20:31:56.962Z",
               "EditorCaption": ""
             }
           ]

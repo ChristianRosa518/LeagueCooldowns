@@ -1,6 +1,14 @@
+
+using CooldownsServer.Models;
+using CooldownsServer.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.Configure<ChampionServerSettings>(
+    builder.Configuration.GetSection("ChampionDatabase"));
+
+builder.Services.AddSingleton<ChampionServices>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
